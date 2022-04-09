@@ -36,7 +36,7 @@
     "hap-nodejs": "^0.4.43",
     "jvsbme680": "1.0.4",
     "mcuiot-logger": "^0.0.7",
-    "moment": "^2.18.1",
+    "moment": "^2.29.2",
     "typescript": "2.8.3"
   }
 }
